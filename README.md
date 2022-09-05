@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KrzysztofKalbarczyk
+- 👀 I’m interested in Politics, History, Professional Boxing (also programming, of course:) ) and other.
+- 🌱 I’m currently learning Python (from basics)
+- 💞️ "I’m looking to collaborate on..." good quesion :)
+- 📫 How to reach me (krzysztof.kalbarczyk@interia.pl)
